@@ -10,3 +10,5 @@ fields:
   name: textarea
   label: textarea
   hidden: false
+pages:
+- content/JavaScript/js.md
